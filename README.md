@@ -1,0 +1,1 @@
+This scraper was made during my internship at the Network Contagion Research Institute. The goal was to scrape data from the [AMCHA initiative]([url](https://amchainitiative.org/database-search/)) website to understand antisemitic activity on college campuses. 
